@@ -1,7 +1,7 @@
 ---
 name: Netikslumas biostatistikos teorijos svetainėje (BS-2023)
 about: Pranešimas apie netikslumą svetainėje mokymai.github.io/biostatistika
-title: '[Biostatistika]: netikslumas → taisymas (netikslumo esmė)'
+title: '[BS-teorija]: netikslumas → taisymas (netikslumo esmė)'
 labels: ['BS-2023', 'Website :earth_americas:']
 assignees: ''
 
@@ -11,11 +11,11 @@ assignees: ''
 <!-- 
   Temos PAVADINIME apibūdinkite netikslumo esmę, kuri padėtų 
   KITIEMS SKAITYTOJAMS GREITAI SUSIORIENTUOTI, kad apie šį netikslumą jau pranešta.
-  1. Palikite dalį „[Biostatistika: “;
+  1. Palikite dalį „[BS-teorija]: “;
   2. Apibūdinkite netikslumo esmę. Jei galima, tokiu formatu: netikslumas → taisymas;
   Pvz.:
-  „[Biostatistika]: kopppiuteris → kompiuteris (rašyba)“
-  „[Biostatistika]: praleistas žodis "tačiau"“
+  „[BS-teorija]: kopppiuteris → kompiuteris (rašyba)“
+  „[BS-teorija]: praleistas žodis "tačiau"“
 
 
  Apačioje patvirtinkite pažymėdami [x], kad formą užpildėte tinkamai:
@@ -38,9 +38,9 @@ Toliau užpildykite vietas, pažymėtas daugtaškiu.
 -->
 
 1. **Dalykas:** BS-2023 
-2. **Netikslumo vieta:** Biostatistikos teorijos svetainė (`mokymai.github.io/biostatistika`)
+2. **Netikslumo vieta:** Teorijos svetainė (`mokymai.github.io/biostatistika`)
 3. **Nuoroda (URL):** ...
-4. **Glaustai aprašykite netikslumą:**  
+4. **Glaustai aprašykite netikslumą:**  ...
 <!-- 4: Loginė klaida, fakto klaida, skaičiavimo klaida, rašybos klaida, skyrybos klaida, nesuderinti linksniai ar pan.-->
 5. **Nukopijuokite netikslumą su keliais žodžiais aplinkui:** ... <!-- Naudojamas greitai paieškai dokumente -->
 6. **Netikslumo tekstas:** ...
